@@ -1,7 +1,7 @@
 # Hi, I'm Nitin 👋
 
 **Commercial director** at [Tim](https://timcloud.nl) and **Chief Fresj Officer** at [Refresj](https://refresj.nl)!
-
+ 
 
 ## What I'm working on
 
@@ -10,7 +10,7 @@
 - 🧩 **TYPO3**: *building and maintaining sites and extensions on TYPO3*
 - 🛠️ **Server management**: *Plesk environments, Linux, Apache, Nginx*
 - 🔐 **Information security**: *working towards ISO 27001*
-
+ 
 
 ## Tech
 
@@ -24,14 +24,14 @@
 ![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge)
-
+ 
 
 ## TYPO3 Extensions
 
 [![rfrsj_font_awesome](https://img.shields.io/badge/TYPO3-rfrsj__font__awesome-FF8600?style=for-the-badge&logo=typo3&logoColor=FF8600&labelColor=dddddd)](https://extensions.typo3.org/extension/rfrsj_font_awesome)
 [![facebook_socialplugins](https://img.shields.io/badge/TYPO3-facebook__socialplugins-FF8600?style=for-the-badge&logo=typo3&logoColor=FF8600&labelColor=dddddd)](https://extensions.typo3.org/extension/facebook_socialplugins)
 [![Buy me a beer](https://img.shields.io/badge/PayPal-Buy_me_a_beer-green?style=for-the-badge&logo=paypal&logoColor=002991&labelColor=dddddd)](https://paypal.me/NitinParri)
-
+ 
 
 ## 💬 Let's work together
 
